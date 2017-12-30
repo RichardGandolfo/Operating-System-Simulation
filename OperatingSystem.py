@@ -1,4 +1,4 @@
-#This program simulates some functionality of an operating system
+#This program simulates some functionality of an operating system and focuses on CPU and hard disk scheduling
 
 #Simplified PCB
 class Process:
